@@ -1,6 +1,7 @@
 # Python Adventures: The Path of Invoker
 
-![Game Logo](assets/logo.png)
+![Python Adventures_ The Path of Invoker](https://github.com/burnt-exe/python-adventures-invoker/assets/126121348/00703dd0-3a6f-4a98-87f3-3ca5e8bef0a9)
+
 
 ## Overview
 "Python Adventures: The Path of Invoker" is an interactive, story-driven game designed to teach basic Python programming skills. Guided by the legendary hero Invoker, players solve coding challenges and puzzles to save their digital world.
